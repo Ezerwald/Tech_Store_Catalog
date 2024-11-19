@@ -45,7 +45,6 @@ body {
         width: 100%;
         height: 50%;
         object-fit: cover;
-        border-radius: 6px;
         background-color: #eee;
     }
 
@@ -56,11 +55,12 @@ body {
         .product-block .product-name {
             font-size: 20px;
             color: #333;
+            margin-bottom: 5px;
         }
 
         .product-block .category {
             display: inline-block;
-            margin-top: 0px;
+            margin: 5px 0;
             padding: 5px 10px;
             font-size: 11px;
             color: #fff;
@@ -68,8 +68,8 @@ body {
             border-radius: 12px;
         }
 
-        .product-block .price {
-            margin-top: 2px;
+        .info-section .price {
+            margin: 5px 0;
             font-family: Arial, Helvetica, sans-serif;
             font-size: 15px;
             font-weight: 500;
@@ -87,6 +87,7 @@ body {
             border-radius: 4px;
             cursor: pointer;
             text-align: center;
+            margin-top: 23px;
         }
 
         .product-block .add-to-cart:hover {
