@@ -1,5 +1,5 @@
 # Description
-Minimalistic UI for managing your solar panels
+Minimalistic UI for managing your solar panels (frontend)
 ## Technologies used:
 - html
 - css
