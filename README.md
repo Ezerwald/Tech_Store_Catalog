@@ -1,5 +1,5 @@
 # Description
-Frontend of website for managing your Solar Panels.
+Minimalistic UI for managing your solar panels
 ## Technologies used:
 - html
 - css
