@@ -1,8 +1,7 @@
 # Description
-Minimalistic UI for managing your solar panels (frontend)
-## Technologies used:
+Modern website's product page (frontend)
+Technologies used:
 - html
 - css
-
-![image](https://github.com/user-attachments/assets/decbfbb1-9b4f-4962-9e53-03f31ff747b1)
  
+![image](https://github.com/user-attachments/assets/4c2377a4-9d83-436e-9498-fdc039928605)
